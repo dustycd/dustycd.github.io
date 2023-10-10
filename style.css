@@ -28,24 +28,24 @@ nav ul li a {
     font-weight: bold;
 }
 
-.hero {
+.section {
     text-align: center;
-    padding: 80px 0;
+    padding: 40px 0;
 }
 
-.hero h1 {
+section h1 {
     font-size: 36px;
     margin: 10px 0;
 }
 
-.main {
-    display: flex;
-    justify-content: center;
+.portfolio-item {
+    margin: 20px;
 }
 
-.content {
-    text-align: center;
-    margin: 20px;
+.portfolio-item img {
+    max-width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
 
 footer {
@@ -54,4 +54,3 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
-
