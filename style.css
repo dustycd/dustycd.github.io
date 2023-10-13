@@ -1,14 +1,14 @@
+
 #center {
     font-family: 'TimesNewRoman';
     text-align: center;
     
     }
     body {
-        background-image: url(https://i.pinimg.com/564x/f0/f0/4a/f0f04ad68ad221a6f2c9df8a63a15041.jpg);
-        background-color: #92a8d1;
+        background-color:#6f645b;
         margin: auto;
         width: 640px; 
         padding: 50px;
-        font-family: 'Lexend Deca', sans-serif; 
-        color: #2E475D;    
+        font-family: 'TimesNewRoman'; 
+        color: #48769e;    
       }
